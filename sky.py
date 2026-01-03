@@ -128,7 +128,7 @@
 # print('lowercase is ', a.lower())
 # print(a.title())
 # print
-
+cvdvd
 # bai tap 4 other way
 # user input the sentence
 # sentence = input('sentence: ')
